@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desarrollador Full Stack Junior</strong> <br>
-  Java | Spring Boot | Node.js | Vue.js | MongoDB
+  Java | Spring Boot | Node.js | Vue.js | MongoDB | SQL|
 </p>
 
 ---
@@ -28,23 +28,22 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 📌 Proyectos destacados
 
-- 🚧 *[Sistema de Control de Suscripciones y Pagos Recurrentes](https://github.com/tuusuario/suscripciones-saas)* – En desarrollo
-- 📱 *[App de Tareas con Vue.js y Node]* – Proyecto de formación
-- 🛒 *[E-commerce API con Spring Boot]* – API RESTful para catálogo y pedidos
+- 🚧 *[Sistema de Control de Suscripciones y Pagos Recurrentes](https://github.com/Konan03/SaaS-Suscripciones-API)* – En desarrollo
+- 🛒 *[E-commerce Front-End](https://github.com/Konan03/unitienda-front)* – para catálogo y pedidos, Trabajo de grado
 
 ---
 
 ## 📫 Conecta conmigo
 
-- ✉️ manuel@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-- 🔗 [Portafolio Web](https://tuportafolio.com) *(opcional)*
+- ✉️ manuelcaicedo52@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-manuel-caicedo-perdomo/)  
 
 ---
 
